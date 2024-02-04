@@ -27,7 +27,7 @@ I'm actively working on. New World Technologies Feel free to check them out and 
 - GitHub: (https://github.com/Yahyobek-12)
 - LinkedIn: (https://www.linkedin.com/in/yahyobek-ergashboyev-9899832a8/)
 - Instagram: (https://www.instagram.com/_yahyobek_12_/)
-- Website: (https://www.instagram.com/_yahyobek_12_/))
+- Website: https://yahyobek-12.vercel.app/
 
 Feel free to reach out if you share similar interests or if you have exciting projects in mind. I'm always open to new opportunities and collaborations!
 
