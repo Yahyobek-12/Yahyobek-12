@@ -1,34 +1,33 @@
 
 # About Me
-
-Hi there! 👋 I'm [Your Name], a passionate [Your Profession/Interest] based in [Your Location]. I love working on [Your Technology Stack or Interests], and I'm always eager to explore new technologies and tackle interesting challenges.
+Hello there! 👋 I'm Yahyobek, passionate about creating new projects based in Andijan. I love working on React.js Javascript and I'm always looking to learn new technologies and solve interesting problems.
 
 ## 🚀 What I Do
 
-- 🌐 I'm experienced in [Your Primary Skills].
-- 💡 I enjoy [Your Interests or Hobbies], and I often find inspiration for my coding projects from [Source of Inspiration].
-- 🌱 I'm currently learning [What You're Learning].
-- 👯 I'm open to collaborations and enjoy working with like-minded individuals on exciting projects.
+- 🌐 I have experience in Html, Css, Bootstrap, Material.ui, TailwindCss, Javascript, Jquery ReactJs.
+- 💡 I love Drawing and I often get inspiration for my coding projects from Pinterest.
+- 🌱 I'm currently learning Redux.
+- 👯 I am open to cooperation and like to work on interesting projects with like-minded people.
 
 ## 🔧 Technologies & Tools
 
-Here are some of the technologies and tools I frequently work with:
+Below are some of the technologies and tools I often work with:
 
-- [Tech Stack 1]
-- [Tech Stack 2]
-- [Tech Stack 3]
+- React-Js
+- Material-Ui
+- Redux
 - ...
-
+- 
 ## 📚 My Projects
 
-I'm actively working on [mention a project or two] to [solve a problem / achieve a goal / contribute to a community]. Feel free to check them out and provide feedback!
+I'm actively working on. New World Technologies Feel free to check them out and provide feedback!
 
 ## 📫 Let's Connect
 
-- GitHub: [Your GitHub Username](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
-- Twitter: [Your Twitter Handle](https://twitter.com/your-twitter-handle)
-- Website: [Your Personal Website/Blog]
+- GitHub: (https://github.com/Yahyobek-12)
+- LinkedIn: (https://www.linkedin.com/in/yahyobek-ergashboyev-9899832a8/)
+- Instagram: (https://www.instagram.com/_yahyobek_12_/)
+- Website: (https://www.instagram.com/_yahyobek_12_/))
 
 Feel free to reach out if you share similar interests or if you have exciting projects in mind. I'm always open to new opportunities and collaborations!
 
