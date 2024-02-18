@@ -13,11 +13,11 @@ Hello there! 👋 I'm Yahyobek, passionate about creating new projects based in 
 
 Below are some of the technologies and tools I often work with:
 
-- React-Js
-- Material-Ui
-- Redux
-- ...
-- 
+- Html, Css, Scss
+- Javascript, Jquery
+- React.js, Redux-Toolkit
+- Material-Ui, Tailwind-Css
+  
 ## 📚 My Projects
 
 I'm actively working on. New World Technologies Feel free to check them out and provide feedback!
