@@ -20,7 +20,7 @@ Below are some of the technologies and tools I often work with:
   
 ## 📚 My Projects
 
-I'm actively working on. New World Technologies Feel free to check them out and provide feedback!
+I'm actively working on. Apeex Technologies Feel free to check them out and provide feedback!
 
 ## 📫 Let's Connect
 
