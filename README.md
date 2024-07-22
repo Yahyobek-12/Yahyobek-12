@@ -15,8 +15,9 @@ Below are some of the technologies and tools I often work with:
 
 - Html, Css, Scss
 - Javascript, Jquery
-- React.js, Redux-Toolkit
 - Material-Ui, Tailwind-Css
+- React.js, Redux, Redux-Toolkit
+- Next.js, Clerk, Firebase, Hygraph
   
 ## 📚 My Projects
 
