@@ -1,6 +1,6 @@
 
 # About Me
-Hello there! 👋 I'm Yahyobek, passionate about creating new projects based in Andijan. I love working on React.js Javascript and I'm always looking to learn new technologies and solve interesting problems.
+Hello there! 👋 I'm Yahyobek, passionate about creating new projects based in Andijan. I love working on React.js Javascript and I'm always looking to learn new technologies and solve interesting problems
 
 ## 🚀 What I Do
 
