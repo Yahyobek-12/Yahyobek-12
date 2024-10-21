@@ -1,3 +1,4 @@
-![Black Y](https://github.com/user-attachments/assets/0fa942b2-cff3-4f1f-8056-9ad1b44913fa)
+![2025](https://github.com/user-attachments/assets/d4c13cbd-d8a9-40d3-b93f-c91fceab74fe)
+
 ---
 # 👋 Hi, I'm a Frontend Developer!
