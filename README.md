@@ -1,2 +1,3 @@
-# 👋 Hi, I'm a Junior Frontend Developer!
+# 👋 Hi, I'm a Frontend Developer!
 ## 🌱 Always learning!
+## Happy Coding! 🚀
