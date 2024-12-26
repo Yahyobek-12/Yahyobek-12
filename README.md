@@ -6,5 +6,5 @@
 
 
 ---
-# 👋 Hi, my name is Yahyobek 12
+# 👋 Hi, my name is Yahyobek 123
 ## I'm a Frontend Developer
