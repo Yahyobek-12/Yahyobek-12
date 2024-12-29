@@ -1,10 +1,3 @@
-# DON'T FORGET YOUR GOALS
-## NEVER GIVE UP
-### KEEP GOING
----
-![NEVER GIVE UP](https://github.com/user-attachments/assets/9caf3484-e8c6-4a4b-81d2-dee8cf9b937d)
+![Closer](https://github.com/user-attachments/assets/47efe389-f106-474c-aa54-241784d751b4)
 
-
----
-# 👋 Hi, my name is Yahyobek 123456
-## I'm a Frontend Developer
+# Keep Going you are closer than you think
