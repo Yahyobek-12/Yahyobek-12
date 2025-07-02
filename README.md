@@ -1,1 +1,1 @@
-# Have a nice day
+# 良い１日を
